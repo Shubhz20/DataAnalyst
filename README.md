@@ -19,6 +19,7 @@ Retail / E-commerce.
 | | Source | Rows | Columns | Link |
 |---|---|---|---|---|
 | **Primary** | Retail Sales Dataset (Kaggle) | 1,000 | 9 | https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset |
+| **Secondary** | Retail Insights: A Comprehensive Sales Dataset (Kaggle) | — | — | https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset |
 
 **Creator:** Mohammad Talib &nbsp;|&nbsp; **License:** CC0 Public Domain &nbsp;|&nbsp; **Last updated:** August 22, 2023
 
