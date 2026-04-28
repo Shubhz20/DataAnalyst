@@ -1,6 +1,6 @@
 # Data Dictionary — Retail Insights: A Comprehensive Sales Dataset
 
-**Source:** Kaggle — Rajneesh231
+**Source:** Kaggle 
 **URL:** https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset
 **Grain:** One row per customer order transaction
 **Time range:** February 2013 – February 2017
