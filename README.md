@@ -9,13 +9,13 @@
 | **Sector**          | Retail / E-commerce         |
 | **Team ID**         | TeamJeet                    |
 | **Section**         | Unity                       |
-| **Faculty Mentor**  | _To be filled by team_      |
+| **Faculty Mentor**  | _To be filled_      |
 | **Institute**       | Newton School of Technology |
-| **Submission Date** | _To be filled by team_      |
+| **Submission Date** | _To be filled_      |
 
 | Role                                | Name              |
 | ----------------------------------- | ----------------- |
-| Team Lead & Data Extraction         | Harshit Aggarwal  |
+| Team Lead & Data Extraction         | Harshit Agrawal  |
 | Statistical Analysis & ETL Engineer | Shibaditya Deb    |
 | Tableau & Visualization             | Arohi Jadhav      |
 | Documentation & Reports             | Jeet Srivastav    |
